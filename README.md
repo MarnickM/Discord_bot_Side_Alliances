@@ -6,7 +6,6 @@ These Discord bots are designed to streamline the management of alliance wars in
 
 ## Technologies used
 - **Python**
-- **MongoDB**
 
 ### War Management
 - **Create and Track Wars**
